@@ -22,7 +22,7 @@ body {
 
 .navbar {
   flex-shrink: 0;
-  border-bottom: 1px solid $grey-darker;
+  border-top: 1px solid $grey-darker;
 }
 
 .navbar-menu {
@@ -40,7 +40,9 @@ body {
 }
 
 .content-area {
-  height: 100%;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
 }
 
 /* NavBar styles */

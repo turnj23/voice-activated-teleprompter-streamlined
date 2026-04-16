@@ -113,9 +113,9 @@ export const NavBar = () => {
                 <span>Margin:</span>
                 <input
                   type="range"
-                  step="10"
+                  step="15"
                   min="0"
-                  max="500"
+                  max="750"
                   value={margin}
                   onChange={e =>
                     dispatch(setMargin(parseInt(e.currentTarget.value, 10)))

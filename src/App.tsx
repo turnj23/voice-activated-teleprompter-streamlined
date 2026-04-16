@@ -4,8 +4,8 @@ import { Content } from "./features/content/Content"
 const App = () => {
   return (
     <div className="app">
-      <NavBar />
       <Content />
+      <NavBar />
     </div>
   )
 }
