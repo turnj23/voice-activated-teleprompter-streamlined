@@ -24,3 +24,6 @@ You can try it live [here](https://jlecomte.github.io/voice-activated-teleprompt
 | `Arrow Down` | Jump forward 15 words |
 | `Arrow Left` | Jump back 5 words |
 | `Arrow Right` | Jump forward 5 words |
+
+
+I've moved the nav to the bottom of the screen so the text being read is closer to the camera - Jamie
